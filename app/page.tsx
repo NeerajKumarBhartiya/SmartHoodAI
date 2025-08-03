@@ -29,8 +29,8 @@ export default function HomePage() {
 
   const testimonials = [
     {
-      name: "Priya Sharma",
-      location: "Bangalore",
+      name: "Ravi Kumar",
+      location: "Patna",
       text: "SmartHoodAI helped me find the perfect neighborhood in Koramangala that matches my startup lifestyle!",
       rating: 5,
     },
