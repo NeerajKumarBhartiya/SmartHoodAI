@@ -515,7 +515,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 SmartHoodAI. All rights reserved. Find Your Perfect Neighborhood Match.</p>
+            <p>&copy; 2025 SmartHoodAI. All rights reserved to Neeraj Bhartiya. Find Your Perfect Neighborhood Match.</p>
           </div>
         </div>
       </footer>
