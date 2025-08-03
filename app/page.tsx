@@ -35,8 +35,8 @@ export default function HomePage() {
       rating: 5,
     },
     {
-      name: "Rajesh Kumar",
-      location: "Mumbai",
+      name: "Naveen Jaiswal",
+      location: "Chhatarpur New Delhi",
       text: "The AI analysis was spot-on. Found a family-friendly area in Powai with great schools for my kids.",
       rating: 5,
     },
